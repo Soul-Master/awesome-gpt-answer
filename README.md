@@ -1,5 +1,5 @@
 # Awesome GPT answers
-Collection of my questions and answer from GPT4
+My personal collection of my Q & A from Chat GPT4
 
 ## What's different between nerd and geek?
 
