@@ -70,9 +70,11 @@ In Canada, the severance pay depends on the province. Generally, it's about a we
 In Thailand, employees with at least 120 days of service are entitled to severance pay. The amount increases with the length of service, up to a maximum of 400 days' wages for 20 years of service or more.
 
 **Calculation:**
-- 3 Years: 3 months of salary
-- 5 Years: 5 months of salary
+- 1-3 Years: 3 months of salary
+- 3-6 Years: 6 months of salary
+- 6-10 Years: 8 months of salary
 - 10 Years: 10 months of salary
+- 20 Years: 13.33 months of salary
 
 ### Final Note:
 These calculations are based on general rules and can vary. Also, actual calculations would require specific salary figures. The severance pay can be significantly influenced by the employee's contract, company policy, and other factors. Legal advice should be sought for precise calculations and understanding of rights and entitlements in each case.
